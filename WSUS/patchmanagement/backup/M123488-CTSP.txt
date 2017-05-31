@@ -1,0 +1,2 @@
+"Computername";"IPAddress";"LastReported";"LastSync";"OS";"Unknown";"NotApplicable";"NotInstalled";"Downloaded";"Installed";"PendingReboot";"Failed"
+"w2k12.shirainet.com";"192.168.0.152";"5/30/2017 12:37:15 PM";"5/30/2017 12:28:20 PM";"Windows Server 2012 R2";"0";"23";"0";"0";"11";"0";"0"
